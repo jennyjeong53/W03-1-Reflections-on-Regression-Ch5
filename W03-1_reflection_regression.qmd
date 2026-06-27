@@ -362,3 +362,9 @@ Stratification helps keep the proportion of fraud cases similar in both sets, ma
 = This suggests that the model is probably overfitting.
 It performs very well on the training data but does not generalize well to new data.
 Next, I would try to simplify the model, use cross-validation, tune model parameters, or use regularization to improve test performance.
+
+
+# Appendix
+
+- [Published report on GitHub Pages](https://jennyjeong53.github.io/W03-1-Reflections-on-Regression-Ch5/)
+- [GitHub Repository](https://github.com/jennyjeong53/W03-1-Reflections-on-Regression-Ch5)
